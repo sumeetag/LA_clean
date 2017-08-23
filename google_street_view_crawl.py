@@ -1,3 +1,9 @@
+# https://andrewpwheeler.wordpress.com/2015/12/28/using-python-to-grab-google-street-view-imagery/
+# https://maps.googleapis.com/maps/api/streetview?size=600x300&location=46.414382,10.013988&heading=121.78&pitch=-0.76&key=AIzaSyCc3aT99qLHHQMDTej6sg3oGx8_ry1-K_0
+# https://developers.google.com/maps/documentation/streetview/intro?authuser=2
+
+
+
 import json
 import requests
 import urllib, os
