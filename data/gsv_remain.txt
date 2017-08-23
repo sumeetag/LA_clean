@@ -1,0 +1,4 @@
+https://maps.googleapis.com/maps/api/streetview?size=640x640&location=34.0139976,-118.2996899&heading=0&key=	2017_1896_0_377-1896-B_34.0139976_-118.2996899_0.jpg
+https://maps.googleapis.com/maps/api/streetview?size=640x640&location=34.0139976,-118.2996899&heading=90&key=	2017_1896_0_377-1896-B_34.0139976_-118.2996899_90.jpg
+https://maps.googleapis.com/maps/api/streetview?size=640x640&location=34.0139976,-118.2996899&heading=180&key=	2017_1896_0_377-1896-B_34.0139976_-118.2996899_180.jpg
+https://maps.googleapis.com/maps/api/streetview?size=640x640&location=34.0139976,-118.2996899&heading=270&key=	2017_1896_0_377-1896-B_34.0139976_-118.2996899_270.jpg
